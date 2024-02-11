@@ -5,7 +5,8 @@ This project is a solution to the "Huddle landing page with alternating feature 
 -[Overview](#overview)
 -[Features](#features)
 -[Links](#links)
--[Acknowledgements]
+-[Acknowledgements](#acknowledgements)
+
 
 ## Overview
 This landing page project is designed to showcase my skills in HTML and CSS. It demonstrates my ability to translate a design prototype into a fully functional web page. The page is responsive and ensures an optimal viewing experience across various devices.
