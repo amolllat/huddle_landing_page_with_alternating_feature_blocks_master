@@ -2,10 +2,10 @@
 This project is a solution to the "Huddle landing page with alternating feature blocks" challenge from Frontend Mentor. The challenge was to build a landing page that closely resembles the provided design.
 
 ## Table of contents
--[Overview](#overview)
--[Features](#features)
--[Links](#links)
--[Acknowledgements](#acknowledgements)
+-[Overview](#overview) \
+-[Features](#features) \
+-[Links](#links) \
+-[Acknowledgements](#acknowledgements) \
 
 
 ## Overview
