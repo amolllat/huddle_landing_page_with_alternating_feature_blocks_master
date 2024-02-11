@@ -5,7 +5,7 @@ This project is a solution to the "Huddle landing page with alternating feature 
 -[Overview](#overview) \
 -[Features](#features) \
 -[Links](#links) \
--[Acknowledgements](#acknowledgements) \
+-[Acknowledgements](#acknowledgements) 
 
 
 ## Overview
@@ -17,8 +17,8 @@ Hover states for interactive elements
 Follows the provided design closely
 
 ## Links
-Built With
-HTML5
+Built With \
+HTML5 \
 CSS3
 
 ## Acknowledgements
